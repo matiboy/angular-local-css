@@ -1,0 +1,20 @@
+{
+  "name"          : "angular-hammer",
+  "description"   : "Hammer.js wrapper for Angular. Use touch events on Angular mobile apps",
+  "version"       : "0.1.1"
+  "keywords"      : ["angular", "mobile", "touch", "hammerjs"],
+  "author"        : "Mathieu Chauvinc <mathieu.chauvinc@gmail.com>",
+  "dependencies"  : {
+    "hammerjs"  : ">=1.0.4"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matiboy/angular-hammer"
+  }
+  "main"          : "angular-hammer.js",
+  "license"       : "MIT"
+}
