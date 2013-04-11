@@ -1,7 +1,6 @@
 'use strict';
-
-angular.module('assetsApp')
-  .directive('localCss', function () {
+var module = angular.module('localCss', ['ng']);
+module.directive('localCss', function () {
     return {
       template: '',
       restrict: 'E',
