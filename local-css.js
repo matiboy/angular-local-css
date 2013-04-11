@@ -1,6 +1,5 @@
 'use strict';
-var module = angular.module('localCss', ['ng']);
-module.directive('localCss', function () {
+angular.module('localCss', ['ng']).directive('localCss', function () {
     return {
       template: '',
       restrict: 'E',
