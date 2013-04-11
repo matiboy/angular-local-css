@@ -1,6 +1,6 @@
 {
   "name"          : "angular-local-css",
-  "description"   : "Angular directive which loads a CSS file when scope is ready, and removes it when scope is destroyed",
+  "description"   : "Angular directive which loads a CSS file when a certain scope is ready, and removes it when scope is destroyed",
   "version"       : "0.1.1"
   "keywords"      : ["angular", "css"],
   "author"        : "Mathieu Chauvinc <mathieu.chauvinc@gmail.com>",
